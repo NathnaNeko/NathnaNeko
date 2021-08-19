@@ -1,0 +1,5 @@
+- 👋 Hi, I’m @NathnaNeko
+- 👀 I’m interested in Kotlin
+- 🌱 I’m currently learning java, js, Kotlin, php
+- 💞️ I’m looking to collaborate on non
+- 📫 How to reach me non
